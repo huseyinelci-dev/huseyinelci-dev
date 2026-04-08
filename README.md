@@ -7,9 +7,13 @@ Su anda **TEKNOFEST 2026 Insansiz Kara Araci** yarismasinda tek yazilim gelistir
 ## 🔧 Teknolojiler
 
 **Programlama:** Python, JavaScript, C/C++, SQL
+
 **Web:** React, Firebase, Tailwind CSS, HTML/CSS, Vite
+
 **Goruntu Isleme:** OpenCV, NumPy
+
 **Gomulu Sistem:** ESP32, Arduino, CAN Bus
+
 **Araclar:** Git, Linux, Flask
 
 ## 📌 One Cikan Projeler

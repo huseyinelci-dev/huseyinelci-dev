@@ -1,6 +1,6 @@
 # Merhaba, ben Huseyin! 👋
 
-Bitlis Eren Universitesi Bilgisayar Muhendisligi 3. sinif ogrencisiyim. Otonom surusten ticari web uygulamalarina, gomulu sistemlerden bilgisayarla gorme projelerine kadar farkli alanlarda yazilim gelistiriyorum.
+Bitlis Eren Universitesi Bilgisayar Muhendisligi 4. sinif ogrencisiyim. Otonom surusten ticari web uygulamalarina, gomulu sistemlerden bilgisayarla gorme projelerine kadar farkli alanlarda yazilim gelistiriyorum.
 
 Su anda **TEKNOFEST 2026 Insansiz Kara Araci** yarismasinda tek yazilim gelistirici olarak calismaktayim.
 
